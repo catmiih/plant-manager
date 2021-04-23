@@ -24,7 +24,7 @@ export function UserIdentification() {
     const navigation = useNavigation();
 
     const [isFocused, setIsFocused] = useState(false);
-    const [isFilled, setIsFilled] = useState(false);
+    const [isFilled, setIsFilled] = useState(true);
     const [name, setName] = useState<string>();
 
     async function handleSubmit(){
