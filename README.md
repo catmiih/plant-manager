@@ -5,7 +5,7 @@
 <a href="https://expo.io/accounts/catmiih/projects/PlantMaganer/builds/5777c619-9ebf-45f7-9db3-af767440ead0" alt="Download apk">
   <img src="https://img.shields.io/badge/-download%20apk-012255?style=for-the-badge&logo=react&logoColor=white"/></a>
   
-  <br/><br/>
+  <br/>
 
 <img src="capa.png" width="100%" />
 
